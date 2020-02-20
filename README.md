@@ -19,6 +19,7 @@ Nest provides a level of abstraction above these common Node.js frameworks (Expr
 <a name="references"></a>
 ## 2. Official references websites. <br />
 NestJS official website : https://nestjs.com <br />
+NestJS official documentation : https://docs.nestjs.com/ <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.

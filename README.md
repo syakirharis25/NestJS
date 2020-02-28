@@ -29,6 +29,7 @@ What is the purpose of a Data Transfer Object in NestJS? by Stack Overflow : htt
 
 **_NestJS documentation by nestjs.com_**
 Controllers by nestjs.com : https://docs.nestjs.com/controllers <br />
+Custom route decorators by nestjs.com : https://docs.nestjs.com/custom-decorators <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.

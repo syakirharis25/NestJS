@@ -4,8 +4,9 @@ My works related to NestJS, a progressive Node.js framework for building efficie
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Start NestJS application using nodemon.](#nodemon)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -35,6 +36,16 @@ Custom providers by nestjs.com : https://docs.nestjs.com/fundamentals/custom-pro
 Database by nestjs.com : https://docs.nestjs.com/techniques/database <br />
 Mongo by nestjs.com : https://docs.nestjs.com/techniques/mongodb <br />
 Modules by nestjs.com : https://docs.nestjs.com/modules <br />
+
+**_NestJS related articles_** <br />
+Getting Started with NestJS by digitalocean : https://www.digitalocean.com/community/tutorials/getting-started-with-nestjs
+
+<a name="node"></a>
+## 3. Start the application using nodemon.
+To start the NestJS application using nodemon, and also to check where is the error in NodeJS application, simply type this command into your working terminal.
+```
+$ npm run start:dev
+```
 
 <a name="github"></a>
 ## 4. GitHub notes.

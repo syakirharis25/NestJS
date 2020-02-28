@@ -4,8 +4,9 @@ My works related to NestJS, a progressive Node.js framework for building efficie
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Start NestJS application using nodemon.](#nodemon)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -21,15 +22,31 @@ Nest provides a level of abstraction above these common Node.js frameworks (Expr
 NestJS official website : https://nestjs.com <br />
 NestJS official documentation : https://docs.nestjs.com/ <br />
 
-**_NestJS questions and answers_**
+**_NestJS questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
-**_NestJS questions and answers by Stack Overflow_**
-What is the purpose of a Data Transfer Object in NestJS? by Stack Overflow : https://stackoverflow.com/questions/59397687/what-is-the-purpose-of-a-data-transfer-object-in-nestjs
+**_NestJS questions and answers by Stack Overflow_** <br />
+What is the purpose of a Data Transfer Object in NestJS? by Stack Overflow : https://stackoverflow.com/questions/59397687/what-is-the-purpose-of-a-data-transfer-object-in-nestjs <br />
+Difference between “npm run dev” and “npm start” by Stack Overflow : https://stackoverflow.com/questions/53192540/difference-between-npm-run-dev-and-npm-start <br />
 
-**_NestJS documentation by nestjs.com_**
+**_NestJS documentation by nestjs.com_** <br />
 Controllers by nestjs.com : https://docs.nestjs.com/controllers <br />
 Custom route decorators by nestjs.com : https://docs.nestjs.com/custom-decorators <br />
+Custom providers by nestjs.com : https://docs.nestjs.com/fundamentals/custom-providers <br />
+Database by nestjs.com : https://docs.nestjs.com/techniques/database <br />
+Mongo by nestjs.com : https://docs.nestjs.com/techniques/mongodb <br />
+Modules by nestjs.com : https://docs.nestjs.com/modules <br />
+Asynchronous providers by nestjs.com : https://docs.nestjs.com/fundamentals/async-providers <br />
+
+**_NestJS related articles_** <br />
+Getting Started with NestJS by digitalocean : https://www.digitalocean.com/community/tutorials/getting-started-with-nestjs
+
+<a name="node"></a>
+## 3. Start the application using nodemon.
+To start the NestJS application using nodemon, and also to check where is the error in NodeJS application, simply type this command into your working terminal.
+```
+$ npm run start:dev
+```
 
 <a name="github"></a>
 ## 4. GitHub notes.

@@ -34,6 +34,7 @@ Custom route decorators by nestjs.com : https://docs.nestjs.com/custom-decorator
 Custom providers by nestjs.com : https://docs.nestjs.com/fundamentals/custom-providers <br />
 Database by nestjs.com : https://docs.nestjs.com/techniques/database <br />
 Mongo by nestjs.com : https://docs.nestjs.com/techniques/mongodb <br />
+Modules by nestjs.com : https://docs.nestjs.com/modules <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.

@@ -21,6 +21,16 @@ Nest provides a level of abstraction above these common Node.js frameworks (Expr
 NestJS official website : https://nestjs.com <br />
 NestJS official documentation : https://docs.nestjs.com/ <br />
 
+**_NestJS questions and answers_**
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_NestJS questions and answers by Stack Overflow_**
+What is the purpose of a Data Transfer Object in NestJS? by Stack Overflow : https://stackoverflow.com/questions/59397687/what-is-the-purpose-of-a-data-transfer-object-in-nestjs
+
+**_NestJS documentation by nestjs.com_**
+Controllers by nestjs.com : https://docs.nestjs.com/controllers <br />
+Custom route decorators by nestjs.com : https://docs.nestjs.com/custom-decorators <br />
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.

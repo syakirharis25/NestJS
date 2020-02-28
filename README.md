@@ -36,6 +36,7 @@ Custom providers by nestjs.com : https://docs.nestjs.com/fundamentals/custom-pro
 Database by nestjs.com : https://docs.nestjs.com/techniques/database <br />
 Mongo by nestjs.com : https://docs.nestjs.com/techniques/mongodb <br />
 Modules by nestjs.com : https://docs.nestjs.com/modules <br />
+Asynchronous providers by nestjs.com : https://docs.nestjs.com/fundamentals/async-providers <br />
 
 **_NestJS related articles_** <br />
 Getting Started with NestJS by digitalocean : https://www.digitalocean.com/community/tutorials/getting-started-with-nestjs
